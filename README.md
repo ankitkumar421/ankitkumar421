@@ -6,7 +6,7 @@
 <!-- Professional Header -->
 <div align="center">
   
-  ### 🚀 **Cloud & Data Engineer | Solution Architect | Tech Innovator**
+  ### 🚀 **Cloud & Data Engineer | Data Analyst | Tech Innovator**
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=ankitkumar421&style=for-the-badge&color=blue" alt="Profile Views" />
@@ -31,12 +31,16 @@ current_quest: "Mastering advanced data engineering patterns"
 
 <div align="left">
   
-🔹 **Specializing in** cloud-native data pipelines and distributed systems  
-🔹 **Passionate about** transforming raw data into actionable insights  
-🔹 **Currently mastering** advanced data engineering architectures  
-🔹 **Building** scalable, production-ready data solutions  
-🔹 **Love to explore** emerging cloud technologies and best practices  
-
+🔹 **Specializing in** cloud-native data pipelines and distributed systems
+  
+🔹 **Passionate about** transforming raw data into actionable insights
+  
+🔹 **Currently mastering** advanced data engineering architectures
+  
+🔹 **Building** scalable, production-ready data solutions
+  
+🔹 **Love to explore** emerging cloud technologies and best practices
+  
 </div>
 
 ---
@@ -46,7 +50,6 @@ current_quest: "Mastering advanced data engineering patterns"
 <div align="center">
 
 ### **Core Technologies**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,7 +58,6 @@ current_quest: "Mastering advanced data engineering patterns"
 </p>
 
 ### **Cloud & Infrastructure**
-
 <p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -63,30 +65,27 @@ current_quest: "Mastering advanced data engineering patterns"
 </p>
 
 ### **Data Engineering Stack**
-
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 ### **Databases**
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
 ### **Development & Tools**
-
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 </div>
@@ -96,29 +95,21 @@ current_quest: "Mastering advanced data engineering patterns"
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitkumar421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar421&layout=compact&theme=tokyonight&border_radius=10" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar421&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar421&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar421&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar421&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar421&theme=tokyo-night&radius=10" alt="Contribution Graph" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar421&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🎯 **Current Focus**
-
-<div align="center">
 
 | 🚧 **Learning** | 🔨 **Building** | 🎯 **Goals** |
 |:---:|:---:|:---:|
@@ -126,30 +117,15 @@ current_quest: "Mastering advanced data engineering patterns"
 | Real-time Processing Systems | Production ML Workflows | Contribute to Open Source |
 | Cloud Design Patterns | Data Quality Frameworks | Build Industry Networks |
 
-</div>
-
 ---
 
 ## 🚀 **Featured Projects**
 
 <div align="center">
-
-<a href="https://github.com/ankitkumar421/chatapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=chatapp&theme=tokyonight&border_radius=10" />
-</a>
-
-<a href="https://github.com/ankitkumar421/books-record-keeper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=books-record-keeper&theme=tokyonight&border_radius=10" />
-</a>
-
-<a href="https://github.com/ankitkumar421/weatherapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=weatherapp&theme=tokyonight&border_radius=10" />
-</a>
-
-<a href="https://github.com/ankitkumar421/covid-info">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=covid-info&theme=tokyonight&border_radius=10" />
-</a>
-
+  <a href="https://github.com/ankitkumar421/chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=chatapp&theme=tokyonight" /></a>
+  <a href="https://github.com/ankitkumar421/books-record-keeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=books-record-keeper&theme=tokyonight" /></a>
+  <a href="https://github.com/ankitkumar421/weatherapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=weatherapp&theme=tokyonight" /></a>
+  <a href="https://github.com/ankitkumar421/covid-info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=covid-info&theme=tokyonight" /></a>
 </div>
 
 ---
@@ -157,37 +133,27 @@ current_quest: "Mastering advanced data engineering patterns"
 ## 🌐 **Let's Connect**
 
 <div align="center">
-  
-  <p>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://yourportfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
-    </a>
-  </p>
-  
+<p>
+<a href="mailto:ankitkumar421@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+</p>
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💡 *"Data is the new oil, but without proper engineering, it's just crude."*
-  
-  **Thanks for visiting! Let's build something amazing together! 🚀**
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
+  <h3>💡 "Data is the new oil, but without proper engineering, it's just crude."</h3>
 </div>
 
-<!-- Snake Animation -->
+---
+
 <div align="center">
+  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
