@@ -69,12 +69,13 @@ current_quest: "Mastering advanced data engineering patterns"
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ### **Databases**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
@@ -105,10 +106,12 @@ current_quest: "Mastering advanced data engineering patterns"
 ## 🚀 **Featured Projects**
 
 <div align="center">
+  
   <a href="https://github.com/ankitkumar421/chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=chatapp&theme=tokyonight" /></a>
   <a href="https://github.com/ankitkumar421/books-record-keeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=books-record-keeper&theme=tokyonight" /></a>
   <a href="https://github.com/ankitkumar421/weatherapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=weatherapp&theme=tokyonight" /></a>
   <a href="https://github.com/ankitkumar421/covid-info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=covid-info&theme=tokyonight" /></a>
+
 </div>
 
 ---
@@ -117,10 +120,9 @@ current_quest: "Mastering advanced data engineering patterns"
 
 <div align="center">
 <p>
-<a href="mailto:ankitkumar421@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="mailto:ankitofficial421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ankitofficial421/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://data-engineering-roadmap-2025.hashnode.dev/data-engineering-roadmap-2025-my-journey-to-mastering-modern-data-engineering"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 </div>
 
