@@ -50,6 +50,7 @@ current_quest: "Mastering advanced data engineering patterns"
 <div align="center">
 
 ### **Core Technologies**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -58,21 +59,23 @@ current_quest: "Mastering advanced data engineering patterns"
 </p>
 
 ### **Cloud & Infrastructure**
+
 <p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### **Data Engineering Stack**
+### **Data Engineering & Big Data**
+
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 ### **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -80,6 +83,7 @@ current_quest: "Mastering advanced data engineering patterns"
 </p>
 
 ### **Development & Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -104,10 +108,11 @@ current_quest: "Mastering advanced data engineering patterns"
 
 <div align="center">
   
-  <a href="https://github.com/ankitkumar421/chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=chatapp&theme=tokyonight" /></a>
-  <a href="https://github.com/ankitkumar421/books-record-keeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=books-record-keeper&theme=tokyonight" /></a>
-  <a href="https://github.com/ankitkumar421/weatherapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=weatherapp&theme=tokyonight" /></a>
-  <a href="https://github.com/ankitkumar421/covid-info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=covid-info&theme=tokyonight" /></a>
+  <a href="https://github.com/ankitkumar421/data-engineering-roadmap-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=data-engineering-roadmap-2025&theme=tokyonight" /></a>
+  
+  <a href="https://github.com/ankitkumar421/retail-sales-aws-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=retail-sales-aws-analytics&theme=tokyonight" /></a>
+  
+  <a href="https://github.com/ankitkumar421/retail-spark-streaming-etl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=retail-spark-streaming-etl&theme=tokyonight" /></a>
 
 </div>
 
@@ -116,26 +121,31 @@ current_quest: "Mastering advanced data engineering patterns"
 ## 🌐 **Let's Connect**
 
 <div align="center">
+
 <p>
 <a href="mailto:ankitofficial421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ankitofficial421/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://data-engineering-roadmap-2025.hashnode.dev/data-engineering-roadmap-2025-my-journey-to-mastering-modern-data-engineering"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
+
 </div>
 
 ---
 
 <div align="center">
+  
   <h3>💡 "Data is the new oil, but without proper engineering, it's just crude."</h3>
+
 </div>
 
 ---
 
 <div align="center">
+  
   <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
+
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
