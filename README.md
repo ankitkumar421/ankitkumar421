@@ -50,7 +50,6 @@ current_quest: "Mastering advanced data engineering patterns"
 <div align="center">
 
 ### **Core Technologies**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,33 +58,32 @@ current_quest: "Mastering advanced data engineering patterns"
 </p>
 
 ### **Cloud & Infrastructure**
-
 <p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### **Data Engineering & Big Data**
-
+### **Data Engineering**
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ### **Databases**
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
-### **Development & Tools**
-
+### **Tools & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -110,9 +108,15 @@ current_quest: "Mastering advanced data engineering patterns"
   
   <a href="https://github.com/ankitkumar421/data-engineering-roadmap-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=data-engineering-roadmap-2025&theme=tokyonight" /></a>
   
+  **Comprehensive guide and practical resources for mastering modern data engineering, including advanced architectures, scalable pipelines, and cloud-native solutions.**
+  
   <a href="https://github.com/ankitkumar421/retail-sales-aws-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=retail-sales-aws-analytics&theme=tokyonight" /></a>
   
+  **End-to-end analytics solution for retail sales data using AWS cloud services, covering ETL, dashboarding, and big data best practices.**
+  
   <a href="https://github.com/ankitkumar421/retail-spark-streaming-etl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar421&repo=retail-spark-streaming-etl&theme=tokyonight" /></a>
+  
+  **Real-time ETL pipeline for retail sales using Spark Structured Streaming, designed for scalable, fault-tolerant data workflows.**
 
 </div>
 
